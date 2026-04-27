@@ -75,4 +75,5 @@ Vos log sont accéssible via les URL suivantes :
 * Error log : {site}.pythonanywhere.com.error.log
 * Server log: {site}.pythonanywhere.com.server.log
 
-TEST
+
+![IMAGE SITE](IMAGES/SCREEN-SITE.png)
