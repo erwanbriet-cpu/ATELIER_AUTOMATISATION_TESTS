@@ -1,8 +1,8 @@
 # API Choice
 
-- Étudiant :
-- API choisie :
-- URL base :
+- Étudiant : Erwan BRIET
+- API choisie : Zippopotam.us
+- URL base : https://api.zippopotam.us/us/90210
 - Documentation officielle / README :
 - Auth : None / API Key / OAuth
 - Endpoints testés :
